@@ -1,4 +1,4 @@
-# Distributed Database Architecture & Performance Tuning 🗄️⚡
+# Distributed Database Architecture & Performance Tuning
 
 Implementación, monitorización y optimización de un entorno de bases de datos distribuidas utilizando PostgreSQL. Este proyecto documenta la configuración de clústeres, estrategias de replicación, planes de recuperación ante desastres (Disaster Recovery) y el *tuning* de consultas para entornos con cargas masivas de datos.
 
